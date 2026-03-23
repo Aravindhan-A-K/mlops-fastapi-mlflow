@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# MLflow (VERY IMPORTANT)
+mlflow_data/
+mlruns/
+model_artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
